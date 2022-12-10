@@ -5,22 +5,20 @@ public class User {
     String name;
     String phonenumber;
 
-    public void setName(String name){
+    public void setName(String name) {
         this.name = name;
     }
 
-    public void setPhoneNumber(String phonenumber){
+    public void setPhoneNumber(String phonenumber) {
         this.phonenumber = phonenumber;
     }
 
+    // TODO Create Method to Register User and Display User's Name and Phone Number
+    // and success message
 
-    // TODO Create Method to Register User and Display User's Name and Phone Number and success message
-
-    public void Register(){
+    public void Register() {
         System.out.println("Success");
 
     }
-    
-
 
 }

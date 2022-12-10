@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch tpmodule",
+            "request": "launch",
+            "mainClass": "tpmodule",
+            "projectName": "OOP-FRQI-ARIEF-1202213322_68d1cda6"
+        },
+        {
+            "type": "java",
+            "name": "Launch TpModule",
+            "request": "launch",
+            "mainClass": "TpModule",
+            "projectName": "OOP-FRQI-ARIEF-1202213322_68d1cda6"
+        },
+        {
+            "type": "java",
+            "name": "Launch BelajarJava",
+            "request": "launch",
+            "mainClass": "BelajarJava",
+            "projectName": "OOP-FRQI-ARIEF-1202213322_68d1cda6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Section6_1",
+            "request": "launch",
+            "mainClass": "Section6_1",
+            "projectName": "OOP-FRQI-ARIEF-1202213322_68d1cda6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "OOP-FRQI-ARIEF-1202213322_68d1cda6"
+        },
+        {
+            "type": "java",
             "name": "Launch Section1",
             "request": "launch",
             "mainClass": "Section1",

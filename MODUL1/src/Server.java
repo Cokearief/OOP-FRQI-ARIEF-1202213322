@@ -1,12 +1,9 @@
+package MODUL1;
 
 import java.util.Scanner;
 
 public class Server {
 
-    /**
-     * @param args
-     * @param name
-     */
     public static void main(String[] args, String name) {
         // TODO Create Database
         Database db = new Database();
@@ -27,10 +24,13 @@ public class Server {
         menu3.setCategory("name");
         menu3.setPrice(15000);
 
+
         // TODO Insert Menu to Database
         db.InsertMenu(menu1);
 
+
         // TODO Display Main Menu
+
 
         // TODO Create User
 

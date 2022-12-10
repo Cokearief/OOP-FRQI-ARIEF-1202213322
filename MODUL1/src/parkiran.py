@@ -1,0 +1,17 @@
+namaKendaraan_1 = str(input("Masukkan Nama Kendaraan1:"))
+rodaKendaraan_1 = int(input("Masukkan Roda Kendaraan1:"))
+biayaSatuanParkirKendaraan_1 = float(input("Masukkan Biaya Satuan Parkir Kendaraan1:"))
+maksTagihanKendaraan_1 = int(input("Masukkan Maks Tagihan Kendaraan1:"))
+diskonKendaraan_1 = float(input("Masukkan Diskon Kendaraan1:"))
+
+namaKendaraan_2 = str(input("Masukkan Nama Kendaraan2:"))
+rodaKendaraan_2 = int(input("Masukkan Roda Kendaraan2:"))
+biayaSatuanParkirKendaraan_2 = float(input("Masukkan Biaya Satuan Parkir Kendaraan2:"))
+maksTagihanKendaraan_2 = int(input("Masukkan Maks Tagihan Kendaraan2:"))
+diskonKendaraan_2 = float(input("Masukkan Diskon Kendaraan2:"))
+
+namaKendaraan_3 = str(input("Masukkan Nama Kendaraan3:"))
+rodaKendaraan_3 = int(input("Masukkan Roda Kendaraan3:"))
+biayaSatuanParkirKendaraan_3 = float(input("Masukkan Biaya Satuan Parkir Kendaraan3:"))
+maksTagihanKendaraan_3 = int(input("Masukkan Maks Tagihan Kendaraan3:"))
+diskonKendaraan_3 = float(input("Masukkan Diskon Kendaraan3:"))
